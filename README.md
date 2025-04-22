@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrius Pegoaro</h1>
+![{485BF00D-36D1-486A-9272-8DF757F4873E}](https://github.com/user-attachments/assets/d60c3de0-9a5f-45b3-b775-9e05c85a62ee)<h1 align="center">Hi 👋, I'm Andrius Pegoaro</h1>
 - 🔭 I’m currently working on ASC BRAZIL ASSOCIATED SOFTWARE **help desk assistant**
 
 - 🌱 I’m currently learning **C , systems analysis and development , HMTL**
@@ -7,9 +7,9 @@
 - 💞️ I'm looking to collaborate on myself my own learn.
 - 
 - 📫 How to reach me **andriusaugusto@hotmail.com or +5534984386080**
-- 
-- 😄 Pronouns: HE/HE
-- 
+  
+- 😄 Pronouns: ![{485BF00D-36D1-486A-9272-8DF757F4873E}](https://github.com/user-attachments/assets/d30e145b-fbb3-4fdd-a0fd-03f3f0fb22a7) HE/HE 
+  
 - ⚡ Fun fact **one step at a time**
 
 <h3 align="left">Connect with me:</h3>
