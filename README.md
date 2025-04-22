@@ -1,4 +1,4 @@
-![{485BF00D-36D1-486A-9272-8DF757F4873E}](https://github.com/user-attachments/assets/d60c3de0-9a5f-45b3-b775-9e05c85a62ee)<h1 align="center">Hi 👋, I'm Andrius Pegoaro</h1>
+<h1 align="center">Hi 👋, I'm Andrius Pegoaro</h1>
 - 🔭 I’m currently working on ASC BRAZIL ASSOCIATED SOFTWARE **help desk assistant**
 
 - 🌱 I’m currently learning **C , systems analysis and development , HMTL**
