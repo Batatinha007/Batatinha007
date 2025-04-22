@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrius Pegoaro</h1>
+
 - 🔭 I’m currently working on ASC BRAZIL ASSOCIATED SOFTWARE
 
 - 🌱 I’m currently learning **C , systems analysis and development , HMTL**
@@ -12,7 +13,6 @@
   
 - ⚡ Fun fact **one step at a time**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
