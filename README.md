@@ -8,7 +8,7 @@
 - 
 - 📫 How to reach me **andriusaugusto@hotmail.com or +5534984386080**
   
-- 😄 Pronouns: ![{485BF00D-36D1-486A-9272-8DF757F4873E}](https://github.com/user-attachments/assets/d30e145b-fbb3-4fdd-a0fd-03f3f0fb22a7) HE/HE 
+- 😄 Pronouns: ![image](https://github.com/user-attachments/assets/eda3bb73-3f3d-4165-9bff-29a6d7561574) HE/HE 
   
 - ⚡ Fun fact **one step at a time**
 
